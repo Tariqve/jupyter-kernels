@@ -1,0 +1,36 @@
+# Jekyll files
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Ruby files
+*.gem
+*.rbc
+.bundle
+vendor/
+
+# Ignore cache
+.cache/
+ # Ignore dependency directories
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Logs and databases
+*.log
+*.sql
+*.sqlite
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*~ 
+.project
+.idea
+
+# Miscellaneous
+tmp/
