@@ -3,6 +3,7 @@ _site/
 .sass-cache/
 .jekyll-cache/
 .jekyll-metadata
+_posts/2025-02-25-welcome-to-jekyll.markdown
 
 # Ruby files
 *.gem
